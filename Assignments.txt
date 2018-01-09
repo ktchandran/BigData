@@ -1,0 +1,4 @@
+1. Find the count and names of registrars in the table.
+2. Find the number of states, districts in each state and sub-districts in each district.
+3. Find the number of males and females in each state from the table.
+4. Find out the names of private agencies for each state
